@@ -9,7 +9,7 @@
     <meta http-equiv="Content-Language" content="en">
     
     
-    <title>reproduce-research/PA1_template.Rmd at master · shlake/reproduce-research</title>
+    <title>reproduce-research/historgram.png at master · shlake/reproduce-research</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -23,7 +23,7 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/NjAxNTI0Njo5MjkwMDUzMjk1OGU1MWFiOWZiMzZhOGY3ZTk1OThkOTo1MTJiN2I1ZDQ4MzVmM2U0NWQ3ODU2ZTZiMWZmZTRkZjE2NDYyMzEwYjg2YTI1NDRiMmNiOWEwNWVjOGYzNmI1--4fd3470e29f6489c6715a86f7314022ad1b8daa7">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/NjAxNTI0Njo5MjkwMDUzMjk1OGU1MWFiOWZiMzZhOGY3ZTk1OThkOTo0OTFhNjBhOTZjZmU1ZDhiMTBiOWRjM2FiN2UwOGQ1MDQ1ZDZhYjQ2YmExZjE3ZmU3YWFjNDJlMjQ0MmMzNjRj--c32f0d6457d3a35c4301bfb525c52d4a3f77d7d1">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -32,7 +32,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient>
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="BB4AE06B:1F57:6A17B83:557E1783" name="octolytics-dimension-request_id" /><meta content="6015246" name="octolytics-actor-id" /><meta content="john-medeiros" name="octolytics-actor-login" /><meta content="0e4393eddc82373770a60d8b595f2f9d83b7b40c407bad19db8a7c181ba168c6" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="BB4AE06B:1F57:6A1595E:557E1771" name="octolytics-dimension-request_id" /><meta content="6015246" name="octolytics-actor-id" /><meta content="john-medeiros" name="octolytics-actor-login" /><meta content="0e4393eddc82373770a60d8b595f2f9d83b7b40c407bad19db8a7c181ba168c6" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
     <meta class="js-ga-set" name="dimension1" content="Logged In">
@@ -46,7 +46,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="NHKC/G5eHhDnKnJK52J+jO1cUQqDXjbyEKlCVyrRqwuvU8In8kpAEdTmrWkwNgHVUdxe+z07Gjs3ZaZb1Ksdsw==" name="csrf-token" />
+<meta content="3BDSBccBkAueSrM0IUEKZX8EJPiR4YJIJPM9Q/i+Tfu+49e3lGhLjPAlpnRFCXxF1g9sEsCISVhOFDFcbH+2iQ==" name="csrf-token" />
 
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github/index-10789d1d56bfe8c960a6caf2954ab053c3fac748d581415395f986779781b4a7.css" media="all" rel="stylesheet" />
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github2/index-8b4acc27f06d948d9a73d77849e0fe0b98d8636c85e2fe0e6c4b8762dec9fd3d.css" media="all" rel="stylesheet" />
@@ -194,7 +194,7 @@
           Settings
         </a>
 
-        <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="aueRvt1Z2FxYhITPXQbPcZ8py92V+iESSyiohdSf03ARqoDzJn7t2+Jcu6Yx0RblD4a01t+n+5QL6llXl0kb5g==" /></div>
+        <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6W4aNF495VOfyYOb7Qvyjro50lM6JMarLGVdFEBeOlzwHMtEqx0X+aNfRmHzePmJyom1BYLiGcN6v+OtsbQoMw==" /></div>
           <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -225,7 +225,7 @@
 <ul class="pagehead-actions">
 
   <li>
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="eBfOCPa6txG7FT6T4qmQHNTQUhheiqKoUoiR6iqBItjZGgdeLvD0YfCe8Fw9U7Ne+HjLO7o4GpUA0BxqK0/sWw==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="22897010" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="F2fWpGI5WO4xOdZPXOGliWZ7+umCw5Isk5ohA1aRCn6BThRivHxXpzNEaWO+wZ/lz0K3stCgUPVGYdEcLPasQA==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="22897010" />
 
       <div class="select-menu js-menu-container js-select-menu">
         <a href="/shlake/reproduce-research/subscription"
@@ -300,7 +300,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/shlake/reproduce-research/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="cf91Jf2O9AW9h5ArV7YYd+XHfO9wvMyqPdyo3E2OHUKlE/YwJ2aZ5pIqa6N3RKIEy5t3bHJiyXZq5lFA0uLXiw==" /></div>
+    <form accept-charset="UTF-8" action="/shlake/reproduce-research/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="B54ld+JDy6vMYg2ExkC2bMu430KyNL5MVxFMUjKWyd3qymkTOkoqu9HN9x/+H6SYjoyvSDnWae7kuyhLh5AcBg==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar shlake/reproduce-research"
@@ -312,7 +312,7 @@
           0
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/shlake/reproduce-research/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="LtoZoobl7BkML6klmN+TAf9iXQ9gT0u1AmDxc/TVFh+uMJxg8vgJBWBeUOc+iN30KGz90JI6wV/E84tmANVV7Q==" /></div>
+    <form accept-charset="UTF-8" action="/shlake/reproduce-research/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Qq60t6/6uldBIifc3uccQSZEjQOyPdQU7vIwiGD8+6/w78rstKf26k97QYGxKF2FWV6YLEK7H8QUOO0LPZ8A1w==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star shlake/reproduce-research"
@@ -328,7 +328,7 @@
   </li>
 
         <li>
-          <form accept-charset="UTF-8" action="/shlake/reproduce-research/fork" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="fhJTfDTXZ0qXEA/5UGbBOdG706MgwMMYvszV/p+Nz/Qeo/raxAOGbs0237o5XQSjN3apN7FbTKNnNIiQO69XgA==" /></div>
+          <form accept-charset="UTF-8" action="/shlake/reproduce-research/fork" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="w3geMV06876TjNqs8THkjj5izhD4thufJVVL0k3kFj379w78+GGIBTu7Sowv8rIPf9LrS9JfRRrbt0r2H43FWw==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -454,7 +454,7 @@
 
 
 <div class="clone-options">You can clone with
-  <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Lqw+c7YHOxCA+GvCvlapMr2VCH5jMOTHKo8Zjyhwtu1Ma9lWEtkqeMOzEtIytzJMTmucLcW5lQgArnqOVK4WtQ==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XmJcYOgB1n4qw2r7Sb0XiVNkSJDs5gdmlFArB41C1FyeD0hN6xxTvdg60CvFyD+kxI3tFnFplCWPW2fSGIZeHg==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="T4rUK3mKEAduwM8KgMZy5ZID3GKhFeKdQG+nqqLfEPOV2tRD9KY+vVqAEgmm3z1IBH2fduoE6JYbN8C82VeFdQ==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+  <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ENvhih3U6vSwT6AyQgyMUit3YdIfB10lUiIYsEVA/9q2va8dL8CgMJtIokpcmeWFn6mLJH+g0waFhe33vBn7Sg==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/ryH83dcXALZ/K21K+RWrEFftMzNjiQ+S5ZTSjRDrCVecOG+vcvqV4fYHqxGCH0b4gGsvhSSG3w9pwY+NoyHDQ==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="hd8FhYWUIZ9UQFTj6HJ2tIz2qfPrxfGqUzbaJqXkOt6ZN+slPDlDx/Rq42626wGMIGkVDAptRzwfXdc8+sm0uQ==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
   <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
     <span class="octicon octicon-question"></span>
   </a>
@@ -482,9 +482,9 @@
 
           
 
-<a href="/shlake/reproduce-research/blob/cdfa41d748809ae3c5f68c65b87981ddbae8a191/PA1_template.Rmd" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/shlake/reproduce-research/blob/cdfa41d748809ae3c5f68c65b87981ddbae8a191/figure/historgram.png" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:4157bcd7298762dd1b2e2536ef6f30a5 -->
+<!-- blob contrib key: blob_contributors:v21:d8c5cc144eab8a01a295660b0bc73d23 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -528,7 +528,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/shlake/reproduce-research/blob/master/PA1_template.Rmd"
+               href="/shlake/reproduce-research/blob/master/figure/historgram.png"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -567,7 +567,7 @@
   </div>
 
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/shlake/reproduce-research" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">reproduce-research</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.Rmd</strong>
+    <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/shlake/reproduce-research" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">reproduce-research</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/shlake/reproduce-research/tree/master/figure" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">figure</span></a></span><span class="separator">/</span><strong class="final-path">historgram.png</strong>
   </div>
 </div>
 
@@ -576,9 +576,9 @@
     <div class="file-history-tease-header">
         <img alt="@shlake" class="avatar" height="24" src="https://avatars1.githubusercontent.com/u/3809325?v=3&amp;s=48" width="24" />
         <span class="author"><a href="/shlake" rel="author">shlake</a></span>
-        <time datetime="2014-08-17T23:17:44Z" is="relative-time">Aug 17, 2014</time>
+        <time datetime="2014-08-17T18:37:49Z" is="relative-time">Aug 17, 2014</time>
         <div class="commit-title">
-            <a href="/shlake/reproduce-research/commit/cdfa41d748809ae3c5f68c65b87981ddbae8a191" class="message" data-pjax="true" title="final program and fingures">final program and fingures</a>
+            <a href="/shlake/reproduce-research/commit/43cdb37df89536aafe96c314e7367441a2744ac8" class="message" data-pjax="true" title="directory with plots">directory with plots</a>
         </div>
     </div>
 
@@ -607,9 +607,8 @@
     <div class="file-actions">
 
       <div class="btn-group">
-        <a href="/shlake/reproduce-research/raw/master/PA1_template.Rmd" class="btn btn-sm " id="raw-url">Raw</a>
-          <a href="/shlake/reproduce-research/blame/master/PA1_template.Rmd" class="btn btn-sm js-update-url-with-hash">Blame</a>
-        <a href="/shlake/reproduce-research/commits/master/PA1_template.Rmd" class="btn btn-sm " rel="nofollow">History</a>
+        <a href="/shlake/reproduce-research/raw/master/figure/historgram.png" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/shlake/reproduce-research/commits/master/figure/historgram.png" class="btn btn-sm " rel="nofollow">History</a>
       </div>
 
         <a class="octicon-btn tooltipped tooltipped-nw"
@@ -619,222 +618,22 @@
             <span class="octicon octicon-device-desktop"></span>
         </a>
 
-            <form accept-charset="UTF-8" action="/shlake/reproduce-research/edit/master/PA1_template.Rmd" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="kzONYobI7A2FDlK8PqGa2BcTbghr0UQcd3yV6s77Fnw3HxSCz5bdGleGCSxqQ7yWtIHQKW+GT4TgBthdpF0ACA==" /></div>
-              <button class="octicon-btn tooltipped tooltipped-n" type="submit" aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
-                <span class="octicon octicon-pencil"></span>
-              </button>
-</form>
-          <form accept-charset="UTF-8" action="/shlake/reproduce-research/delete/master/PA1_template.Rmd" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="fTRR4eHbEjkRrCVHtkB6IFnn1MtnLk7jk8km2H5bx1h2VzcTqh5cYC4pyOSDzPnXfxtQjRGKwif95HvNG29uBQ==" /></div>
+
+          <form accept-charset="UTF-8" action="/shlake/reproduce-research/delete/master/figure/historgram.png" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TCeIFjQ3LOQBiIQhKH+01Reh+HL+0sKzyG5MESFWmR2U4XOo7Ew3hW98vcP/UQa/6sM6b5yV3YoG8xngBT9wIA==" /></div>
             <button class="octicon-btn octicon-btn-danger tooltipped tooltipped-n" type="submit" aria-label="Fork this project and delete this file" data-disable-with>
               <span class="octicon octicon-trashcan"></span>
             </button>
 </form>    </div>
 
     <div class="file-info">
-        204 lines (125 sloc)
-        <span class="file-info-divider"></span>
-      6.576 kB
+      16.393 kB
     </div>
   </div>
-    <div id="readme" class="blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="mainContentOfPage"><table data-table-type="yaml-metadata">
-  <thead>
-  <tr>
-  <th>title</th>
-
-  <th>output</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>Peer Assessment 1</div></td>
-
-  <td><div>html_document</div></td>
-  </tr>
-  </tbody>
-</table>
-
-<p><em>Intro and Data Source from Course assignment description</em></p>
-
-<h2><a id="user-content-introduction" class="anchor" href="#introduction" aria-hidden="true"><span class="octicon octicon-link"></span></a>Introduction</h2>
-
-<p>This assignment makes use of data from a personal activity monitoring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.</p>
-
-<h2><a id="user-content-data-source" class="anchor" href="#data-source" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Source</h2>
-
-<p><strong>Dataset</strong> Available here: <a href="https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip">https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip</a></p>
-
-<p><strong>Fileformat</strong> CSV</p>
-
-<p>17,568 observations</p>
-
-<p><strong>Variables:</strong></p>
-
-<ul>
-<li><p><em>steps</em>: Number of steps taking in a 5-minute interval (missing values are coded as NA)</p></li>
-<li><p><em>date</em>: The date on which the measurement was taken in YYYY-MM-DD format</p></li>
-<li><p><em>interval</em>: Identifier for the 5-minute interval in which measurement was taken</p></li>
-</ul>
-
-<pre><code></code></pre>
-<h2><a id="user-content-loading-and-preprocessing-the-data" class="anchor" href="#loading-and-preprocessing-the-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>Loading and preprocessing the data</h2>
-
-<div class="highlight highlight-r"><pre><span class="pl-smi">activity</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s"><span class="pl-pds">"</span>./activity.csv<span class="pl-pds">"</span></span>)
-summary(<span class="pl-smi">activity</span>)</pre></div>
-
-<h2><a id="user-content-total-number-of-steps-taken-per-day" class="anchor" href="#total-number-of-steps-taken-per-day" aria-hidden="true"><span class="octicon octicon-link"></span></a>Total Number of Steps Taken Per Day</h2>
-
-<h3><a id="user-content-histogram-of-total-number-of-steps-taken-per-day" class="anchor" href="#histogram-of-total-number-of-steps-taken-per-day" aria-hidden="true"><span class="octicon octicon-link"></span></a>Histogram of total number of steps taken per day</h3>
-
-<div class="highlight highlight-r"><pre>hist(tapply(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>,<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">date</span>,<span class="pl-smi">sum</span>), <span class="pl-v">main</span> <span class="pl-k">=</span> paste(<span class="pl-s"><span class="pl-pds">"</span>Histogram of Total Number of Steps Taken per Day<span class="pl-pds">"</span></span>), <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Sum of Steps<span class="pl-pds">"</span></span>)</pre></div>
-
-<h3><a id="user-content-calculate-mean-and-median-total-number-of-steps-taken-per-day" class="anchor" href="#calculate-mean-and-median-total-number-of-steps-taken-per-day" aria-hidden="true"><span class="octicon octicon-link"></span></a>Calculate mean and median total number of steps taken per day</h3>
-
-<div class="highlight highlight-r"><pre><span class="pl-smi">meanSteps</span> <span class="pl-k">&lt;-</span> mean(tapply(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>,<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">date</span>,<span class="pl-smi">sum</span>), <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)
-<span class="pl-smi">medianSteps</span> <span class="pl-k">&lt;-</span> median(tapply(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>,<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">date</span>,<span class="pl-smi">sum</span>), <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)
-print(paste0(<span class="pl-s"><span class="pl-pds">"</span>Mean total number of steps taken per day is: <span class="pl-pds">"</span></span>, <span class="pl-smi">meanSteps</span>), <span class="pl-v">digits</span> <span class="pl-k">=</span> <span class="pl-c1">2</span>)
-print(paste0(<span class="pl-s"><span class="pl-pds">"</span>Median total number of steps taken per day is: <span class="pl-pds">"</span></span>, <span class="pl-smi">medianSteps</span>))</pre></div>
-
-<h2><a id="user-content-average-daily-activity-pattern" class="anchor" href="#average-daily-activity-pattern" aria-hidden="true"><span class="octicon octicon-link"></span></a>Average daily activity pattern</h2>
-
-<h3><a id="user-content-time-series-plot-interval-with-max-number-of-steps" class="anchor" href="#time-series-plot-interval-with-max-number-of-steps" aria-hidden="true"><span class="octicon octicon-link"></span></a>Time Series Plot, Interval with Max number of steps</h3>
-
-<div class="highlight highlight-r"><pre><span class="pl-smi">avgStepsInt</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>,<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">interval</span>,<span class="pl-smi">mean</span>, <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)
-plot(names(<span class="pl-smi">avgStepsInt</span>), <span class="pl-smi">avgStepsInt</span>, <span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>l<span class="pl-pds">"</span></span>, <span class="pl-v">main</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Time Series Plot<span class="pl-pds">"</span></span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>5-minute Intervals<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Avg Steps<span class="pl-pds">"</span></span>)
-
-<span class="pl-c">## which.max gives index number of the max 5-minute value, so to get the</span>
-<span class="pl-c">## max value - which is a lable, make the label a numeric</span>
-
-print(paste0(<span class="pl-s"><span class="pl-pds">"</span>Interval <span class="pl-pds">"</span></span>, as.numeric(names(which.max(<span class="pl-smi">avgStepsInt</span>))) , <span class="pl-s"><span class="pl-pds">"</span> contains the maximum number of steps.<span class="pl-pds">"</span></span>))
-</pre></div>
-
-<h2><a id="user-content-imputing-missing-values" class="anchor" href="#imputing-missing-values" aria-hidden="true"><span class="octicon octicon-link"></span></a>Imputing Missing Values</h2>
-
-<p>Calculate and report the total number of missing values in the dataset</p>
-
-<div class="highlight highlight-r"><pre>print(paste0(<span class="pl-s"><span class="pl-pds">"</span>There are <span class="pl-pds">"</span></span>, sum(is.na(<span class="pl-smi">activity</span>)) , <span class="pl-s"><span class="pl-pds">"</span> missing values in the dataset.<span class="pl-pds">"</span></span>))
-</pre></div>
-
-<h3><a id="user-content-strategy-for-filling-in-missing-values-in-the-dataset" class="anchor" href="#strategy-for-filling-in-missing-values-in-the-dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>Strategy for filling in missing values in the dataset</h3>
-
-<p>My initial strategy was to </p>
-
-<ul>
-<li>calculate the mean number of steps per day</li>
-<li>calucalte the mean number of steps per time interval</li>
-<li>take the average of the above 2 means</li>
-</ul>
-
-<p>But after taking the mean number of steps per day, I realized that there are days with NA which could not be averaged with the mean of the interval. So my final strategy was:</p>
-
-<ul>
-<li>calculate the mean number of steps per time interval</li>
-</ul>
-
-<h3><a id="user-content-create-a-new-dataset" class="anchor" href="#create-a-new-dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>Create a new dataset</h3>
-
-<p>Using the above strategy replace the missing values in the activity dataset with the new mean</p>
-
-<div class="highlight highlight-r"><pre><span class="pl-c">## make a copy of activity so to change the copy and not the original</span>
-<span class="pl-smi">activityNoNA</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">activity</span>
-
-<span class="pl-smi">meanInterval</span> <span class="pl-k">&lt;-</span>tapply(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">interval</span>,<span class="pl-smi">mean</span>, <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)
-
-<span class="pl-c">## create an index of NAs and loop through the index in the activityNoNA file</span>
-<span class="pl-c">## replacing NAs with the mean for that interval</span>
-
-<span class="pl-k">for</span> (<span class="pl-smi">i</span> <span class="pl-k">in</span> which(is.na(<span class="pl-smi">activityNoNA</span>)))
-    {
-    <span class="pl-smi">activityNoNA</span>[<span class="pl-smi">i</span>,<span class="pl-c1">1</span>] <span class="pl-k">&lt;-</span> <span class="pl-smi">meanInterval</span>[((<span class="pl-smi">i</span><span class="pl-k">-</span><span class="pl-c1">1</span>)<span class="pl-k">%%</span><span class="pl-c1">288</span>)<span class="pl-k">+</span><span class="pl-c1">1</span>]
-    }
-
-<span class="pl-c">##new dataset is activityNoNA</span>
-</pre></div>
-
-<h3><a id="user-content-historgram-with-new-dataset" class="anchor" href="#historgram-with-new-dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>Historgram with new Dataset</h3>
-
-<div class="highlight highlight-r"><pre>hist(tapply(<span class="pl-smi">activityNoNA</span><span class="pl-k">$</span><span class="pl-smi">steps</span>,<span class="pl-smi">activityNoNA</span><span class="pl-k">$</span><span class="pl-smi">date</span>,<span class="pl-smi">sum</span>), <span class="pl-v">main</span> <span class="pl-k">=</span> paste(<span class="pl-s"><span class="pl-pds">"</span>Histogram of Total Number of Steps Taken per Day<span class="pl-pds">"</span></span>), <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Sum of Steps<span class="pl-pds">"</span></span>)</pre></div>
-
-<h3><a id="user-content-calculate-mean-and-median-total-number-of-steps-taken-per-day-1" class="anchor" href="#calculate-mean-and-median-total-number-of-steps-taken-per-day-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Calculate mean and median total number of steps taken per day</h3>
-
-<div class="highlight highlight-r"><pre><span class="pl-smi">meanSteps</span> <span class="pl-k">&lt;-</span> mean(tapply(<span class="pl-smi">activityNoNA</span><span class="pl-k">$</span><span class="pl-smi">steps</span>,<span class="pl-smi">activityNoNA</span><span class="pl-k">$</span><span class="pl-smi">date</span>,<span class="pl-smi">sum</span>), <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)
-<span class="pl-smi">medianSteps</span> <span class="pl-k">&lt;-</span> median(tapply(<span class="pl-smi">activityNoNA</span><span class="pl-k">$</span><span class="pl-smi">steps</span>,<span class="pl-smi">activityNoNA</span><span class="pl-k">$</span><span class="pl-smi">date</span>,<span class="pl-smi">sum</span>), <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)
-print(paste0(<span class="pl-s"><span class="pl-pds">"</span>Mean total number of steps taken per day is: <span class="pl-pds">"</span></span>, <span class="pl-smi">meanSteps</span>), <span class="pl-v">digits</span> <span class="pl-k">=</span> <span class="pl-c1">2</span>)
-print(paste0(<span class="pl-s"><span class="pl-pds">"</span>Median total number of steps taken per day is: <span class="pl-pds">"</span></span>, <span class="pl-smi">medianSteps</span>))</pre></div>
-
-<p>The value for mean in my new file is the same in as the original file. The median for my new file is now the same as the mean. </p>
-
-<p>Imputing missing data for missing data increased the number of steps taken per day. </p>
-
-<h2><a id="user-content-difference-in-activity-patterns-between-weeekdays-and-weekends" class="anchor" href="#difference-in-activity-patterns-between-weeekdays-and-weekends" aria-hidden="true"><span class="octicon octicon-link"></span></a>Difference in Activity Patterns Between Weeekdays and Weekends?</h2>
-
-<p>For this analysis the dataset with NAs replaced will be used, activityNoNA</p>
-
-<h3><a id="user-content-adding-new-variable-for-weekendweekday" class="anchor" href="#adding-new-variable-for-weekendweekday" aria-hidden="true"><span class="octicon octicon-link"></span></a>Adding new variable for weekend/weekday</h3>
-
-<p>Add a new column to the new activity file specifying the day of the week.
-Then the data will be plotted as a panel plot containing a time series plot (i.e. type = "l") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis).</p>
-
-<div class="highlight highlight-r"><pre><span class="pl-smi">weekend</span> <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>Sunday<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>Saturday<span class="pl-pds">"</span></span>)
-
-<span class="pl-smi">dayWeek</span> <span class="pl-k">&lt;-</span> c()
-
-<span class="pl-c">## Check for day of week as a weekend, if not, it's a weekday</span>
-<span class="pl-k">for</span> (<span class="pl-smi">i</span> <span class="pl-k">in</span> <span class="pl-c1">1</span><span class="pl-k">:</span>length(<span class="pl-smi">activityNoNA</span><span class="pl-k">$</span><span class="pl-smi">steps</span>))
-    {
-    <span class="pl-k">if</span> (any(weekdays(as.Date(<span class="pl-smi">activityNoNA</span>[<span class="pl-smi">i</span>,<span class="pl-c1">2</span>])) <span class="pl-k">==</span> <span class="pl-smi">weekend</span>)) 
-        {
-            <span class="pl-c">##add "weekend"" to new column for that row</span>
-            <span class="pl-smi">dayWeek</span>[<span class="pl-smi">i</span>] <span class="pl-k">&lt;-</span> <span class="pl-s"><span class="pl-pds">"</span>weekend<span class="pl-pds">"</span></span>  }
-            <span class="pl-c">##else add "weekday"" to new column for that row</span>
-        <span class="pl-k">else</span> { <span class="pl-smi">dayWeek</span>[<span class="pl-smi">i</span>] <span class="pl-k">&lt;-</span> <span class="pl-s"><span class="pl-pds">"</span>weekday<span class="pl-pds">"</span></span>
-         }
-    }
-<span class="pl-c">## Combine activity file with dayweek column</span>
-
-    <span class="pl-smi">activityNoNA</span> <span class="pl-k">&lt;-</span> cbind(<span class="pl-smi">activityNoNA</span>,<span class="pl-smi">dayWeek</span>)
-
-
-</pre></div>
-
-<h3><a id="user-content-weekdayweekend-charts" class="anchor" href="#weekdayweekend-charts" aria-hidden="true"><span class="octicon octicon-link"></span></a>Weekday/weekend charts</h3>
-
-<p>Time series plot of 5-minute interval</p>
-
-<div class="highlight highlight-r"><pre>library(<span class="pl-smi">lattice</span>)
-
-<span class="pl-c">##split dataset into weekend rows and weekday rows</span>
-<span class="pl-c">## change the resulting lists to dataframes</span>
-
-<span class="pl-smi">a</span> <span class="pl-k">&lt;-</span> split(<span class="pl-smi">activityNoNA</span>, <span class="pl-smi">activityNoNA</span><span class="pl-k">$</span><span class="pl-smi">dayWeek</span>)
-<span class="pl-smi">wkDays</span> <span class="pl-k">&lt;-</span> do.call(<span class="pl-smi">rbind.data.frame</span>,<span class="pl-smi">a</span>[<span class="pl-c1">1</span>])
-<span class="pl-smi">wkEnd</span> <span class="pl-k">&lt;-</span> do.call(<span class="pl-smi">rbind.data.frame</span>,<span class="pl-smi">a</span>[<span class="pl-c1">2</span>])
-
-
-<span class="pl-smi">avgStepsIntwkDay</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-smi">wkDays</span><span class="pl-k">$</span><span class="pl-smi">steps</span>,<span class="pl-smi">wkDays</span><span class="pl-k">$</span><span class="pl-smi">interval</span>,<span class="pl-smi">mean</span>)
-<span class="pl-smi">avgStepsIntwkEnd</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-smi">wkEnd</span><span class="pl-k">$</span><span class="pl-smi">steps</span>,<span class="pl-smi">wkEnd</span><span class="pl-k">$</span><span class="pl-smi">interval</span>,<span class="pl-smi">mean</span>)
-
-
-<span class="pl-smi">intPlotwd</span> <span class="pl-k">&lt;-</span> as.data.frame(cbind(<span class="pl-smi">avgStepsIntwkDay</span>, as.numeric(as.character((names(<span class="pl-smi">avgStepsInt</span>))))))
-<span class="pl-smi">intPlotwe</span> <span class="pl-k">&lt;-</span> as.data.frame(cbind(<span class="pl-smi">avgStepsIntwkEnd</span>, as.numeric(as.character((names(<span class="pl-smi">avgStepsInt</span>))))))
-
-<span class="pl-smi">df.intPlotwe</span> <span class="pl-k">&lt;-</span> cbind(<span class="pl-smi">intPlotwe</span>, rep(<span class="pl-s"><span class="pl-pds">"</span>weekend<span class="pl-pds">"</span></span>,<span class="pl-c1">288</span>))
-<span class="pl-smi">df.intPlotwd</span> <span class="pl-k">&lt;-</span> cbind(<span class="pl-smi">intPlotwd</span>, rep(<span class="pl-s"><span class="pl-pds">"</span>weekday<span class="pl-pds">"</span></span>,<span class="pl-c1">288</span>))
-
-colnames(<span class="pl-smi">df.intPlotwd</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>avgSteps<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>interval<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>dayweek<span class="pl-pds">"</span></span>)
-colnames(<span class="pl-smi">df.intPlotwe</span>) <span class="pl-k">&lt;-</span> c(<span class="pl-s"><span class="pl-pds">"</span>avgSteps<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>interval<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>dayweek<span class="pl-pds">"</span></span>)
-
-
-<span class="pl-smi">intPlot</span> <span class="pl-k">&lt;-</span> rbind(<span class="pl-smi">df.intPlotwd</span>, <span class="pl-smi">df.intPlotwe</span>)
-
-
-xyplot(<span class="pl-smi">avgSteps</span> <span class="pl-k">~</span> <span class="pl-smi">interval</span> <span class="pl-k">|</span> <span class="pl-smi">dayweek</span>, <span class="pl-smi">intPlot</span>, <span class="pl-v">layout</span><span class="pl-k">=</span>c(<span class="pl-c1">1</span>,<span class="pl-c1">2</span>),
-<span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>l<span class="pl-pds">"</span></span>,<span class="pl-v">main</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Time Series Plot<span class="pl-pds">"</span></span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>5-minute Intervals<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Avg Steps<span class="pl-pds">"</span></span>)
-
-
-
-</pre></div>
-</article>
+  
+  <div class="blob-wrapper data type-text">
+      <div class="image">
+          <span class="border-wrap"><img src="/shlake/reproduce-research/blob/master/figure/historgram.png?raw=true" alt="historgram.png"></span>
+      </div>
   </div>
 
 </div>
@@ -873,7 +672,7 @@ xyplot(<span class="pl-smi">avgSteps</span> <span class="pl-k">~</span> <span cl
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.04584s from github-fe123-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.05231s from github-fe117-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
